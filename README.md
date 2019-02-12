@@ -1,4 +1,4 @@
-# 8 String-to-Integer
+# 8, String-to-Integer
       
       Implement atoi which converts a string to an integer.
 
