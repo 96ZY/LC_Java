@@ -25,3 +25,6 @@
       A mapping of digit to letters (just like on the telephone buttons) is given below. Note that 1 does not map to any letters.
 
 # 18. 4Sum
+Given an array nums of n integers and an integer target, are there elements a, b, c, and d in nums such that a + b + c + d = target? 
+
+Find all unique quadruplets in the array which gives the sum of target.
