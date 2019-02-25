@@ -34,5 +34,7 @@
 # 20. Valid Parentheses (validparentheses.java)
 
 # 21. Merge Two Sorted Lists
+
+# 26. Remove Duplicate from Sorted Array (removedup.java)
       
  # 66. Pluse One (PluseOne.java)
