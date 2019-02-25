@@ -35,6 +35,6 @@
 
 # 21. Merge Two Sorted Lists
 
-# 26. Remove Duplicate from Sorted Array (removedup.java)
+# 26. Remove Duplicate from Sorted Array (removeduplicate.java)
       
  # 66. Pluse One (PluseOne.java)
