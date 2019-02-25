@@ -76,7 +76,7 @@ class Solution2 {
 			if (this.mappings.containsKey(c)) {
 
 				// Get the top element of the stack. If the stack is empty, set a dummy value of
-				// '#'}
+				// '#', otherwise, return the top element of the stack and then delete it by stack.pop()
 				char topElement = stack.empty() ? '#' : stack.pop();
 
 				// If the mapping for this bracket doesn't match the stack's top element, return
