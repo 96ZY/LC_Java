@@ -39,4 +39,6 @@
 
 # 27. Remove Element (RemoveElement.java)
       
+# 28. Implement strStr() (Implementstr.java)
+
 # 66. Pluse One (PluseOne.java)
