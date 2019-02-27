@@ -43,4 +43,6 @@
 
 # 35. Search Insert Position (Searchinsertposition.java)
 
+# 36. Valid Sodoku (ValidSodoku.java)
+
 # 66. Pluse One (PluseOne.java)
