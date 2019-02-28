@@ -2,7 +2,7 @@ import java.util.*;
 
 class Solution {
 	public boolean isValidSudoku(char[][] board) {
-		//define 9 hash map for rows, columns, and boxes respectively
+		//define 9 hash maps for rows, columns, and boxes respectively
 		HashMap<Integer, Integer>[] rows = new HashMap[9];
 		HashMap<Integer, Integer>[] columns = new HashMap[9];
 		HashMap<Integer, Integer>[] boxes = new HashMap[9];
