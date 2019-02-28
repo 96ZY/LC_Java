@@ -1,37 +1,41 @@
-// Just the solution part
+import java.util.*;
 
 class Solution {
-  public boolean isValidSudoku(char[][] board) {
-    // init data
-    HashMap<Integer, Integer> [] rows = new HashMap[9];
-    HashMap<Integer, Integer> [] columns = new HashMap[9];
-    HashMap<Integer, Integer> [] boxes = new HashMap[9];
-    for (int i = 0; i < 9; i++) {
-      rows[i] = new HashMap<Integer, Integer>();
-      columns[i] = new HashMap<Integer, Integer>();
-      boxes[i] = new HashMap<Integer, Integer>();
-    }
+	public boolean isValidSudoku(char[][] board) {
+		//define 9 hash map for rows, columns, and boxes respectively
+		HashMap<Integer, Integer>[] rows = new HashMap[9];
+		HashMap<Integer, Integer>[] columns = new HashMap[9];
+		HashMap<Integer, Integer>[] boxes = new HashMap[9];
+		for (int i = 0; i < 9; i++) {
+			rows[i] = new HashMap<Integer, Integer>();
+			columns[i] = new HashMap<Integer, Integer>();
+			boxes[i] = new HashMap<Integer, Integer>();
+		}
+		
+		int index = 0; //define the index the sub-boxes(3x3)
+		int base = 1; // it defines the first value for a key, and if there exist the same key latter, the value will be key+value
+		for (int i = 0; i < 9; i++) {
+			for (int j = 0; j < 9; j++) {
+				if (board[i][j] != '.') {
+					int num = (int) board[i][j];
+					index = (i / 3) * 3 + j / 3; //get the index of the sub=boxes by i and j
 
-    // validate a board
-    for (int i = 0; i < 9; i++) {
-      for (int j = 0; j < 9; j++) {
-        char num = board[i][j];
-        if (num != '.') {
-          int n = (int)num;
-          int box_index = (i / 3 ) * 3 + j / 3;
+					rows[i].put(num, rows[i].getOrDefault(num, 0) + base); //add keys and corresponding values for a row
+					columns[j].put(num, columns[j].getOrDefault(num, 0) + base); // add keys and corresponding values for a column
+					boxes[index].put(num, boxes[index].getOrDefault(num, 0) + base); //add keys and corresponding values for a sub-box
 
-          // keep the current cell value
-          rows[i].put(n, rows[i].getOrDefault(n, 0) + 1);
-          columns[j].put(n, columns[j].getOrDefault(n, 0) + 1);
-          boxes[box_index].put(n, boxes[box_index].getOrDefault(n, 0) + 1);
+					if (rows[i].get(num) > base || columns[j].get(num) > base || boxes[index].get(num) > base) {
+						return false;
+					}
+				}
 
-          // check if this value has been already seen before
-          if (rows[i].get(n) > 1 || columns[j].get(n) > 1 || boxes[box_index].get(n) > 1)
-            return false;
-        }
-      }
-    }
-
-    return true;
-  }
+			}
+		}
+		return true;
+	}
 }
+
+public class ValidSudoku {
+
+}
+
