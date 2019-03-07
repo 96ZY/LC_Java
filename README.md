@@ -22,6 +22,8 @@
 
 ### 36. Valid Sodoku (ValidSodoku.java)
 
+### 53. Maximum Subarray (MaximumSubarray.java)
+
 ### 66. Pluse One (PluseOne.java)
 
 ### 70. Climbing Stairs (ClimbingStairs.java)
