@@ -32,4 +32,6 @@
 
 ### 198. House Robber (HouseRobber.java)
 
+### 202. Happy Number (HappyNumber.java)
+
 ### 322. Coin Change (CoinChange.java)
