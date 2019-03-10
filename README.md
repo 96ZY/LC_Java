@@ -34,4 +34,6 @@
 
 ### 202. Happy Number (HappyNumber.java)
 
+### 300. Longest Increasing Subsequence (LongestIncreasingSubsequence.java)
+
 ### 322. Coin Change (CoinChange.java)
