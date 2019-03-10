@@ -1,4 +1,5 @@
 //just the solution part
+//Use DP programming
 class SolutionofLeetCode300 {
 		public int lengthOfLIS(int[] nums) {
 			int L = nums.length;
