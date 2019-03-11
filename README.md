@@ -24,6 +24,8 @@
 
 ### 53. Maximum Subarray (MaximumSubarray.java)
 
+### 64. Minimum Path Sum (MinimumPathSum.java)
+
 ### 66. Pluse One (PluseOne.java)
 
 ### 70. Climbing Stairs (ClimbingStairs.java)
