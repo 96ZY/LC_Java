@@ -32,6 +32,8 @@
 
 ### 73. Set Matrix Zeroes (SetMatrixZeroes.java)
 
+### 174. Dungeon Game (DungeonGame.java)
+
 ### 198. House Robber (HouseRobber.java)
 
 ### 202. Happy Number (HappyNumber.java)
