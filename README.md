@@ -32,6 +32,8 @@
 
 ### 73. Set Matrix Zeroes (SetMatrixZeroes.java)
 
+### 169. Majority Element (MajorityElement.java)
+
 ### 174. Dungeon Game (DungeonGame.java)
 
 ### 198. House Robber (HouseRobber.java)
