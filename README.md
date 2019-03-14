@@ -32,6 +32,8 @@
 
 ### 73. Set Matrix Zeroes (SetMatrixZeroes.java)
 
+### 162. Find Peak Element (FindPeakElement.java)
+
 ### 169. Majority Element (MajorityElement.java)
 
 ### 174. Dungeon Game (DungeonGame.java)
