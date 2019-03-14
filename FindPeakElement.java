@@ -1,4 +1,4 @@
-
+//Just the solution part
 class SolutionofLeetCode162 {
 	public int findPeakElement(int[] nums) {
 		int L = nums.length;
