@@ -1,4 +1,4 @@
-
+//Just the solution part
 class SolutionofLeetCode151 {
 	public String reverseWords(String s) {
 		s = s.trim();
