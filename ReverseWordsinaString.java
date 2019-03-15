@@ -27,7 +27,7 @@ class SolutionofLeetCode151 {
 
 		String words[] = new String[L];
 		for (int i = 0; i < L; i++) {
-			words[i] = "t";
+			words[i] = "t";//if i don't use t, there will be null before every words[i]
 		}
 		int num = 0;
 		for (int i = 0; i < L; i++) {
