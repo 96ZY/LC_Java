@@ -1,3 +1,4 @@
+//just the solution part
 class SolutionofLeetCode231 {
 	public boolean isPowerOfTwo(int n) {
 		if (n == 0) {
