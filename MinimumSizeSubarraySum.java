@@ -1,3 +1,4 @@
+//Just the solution part
 class Solution {
     public int minSubArrayLen(int s, int[] nums) {
         int L = nums.length;
