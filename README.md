@@ -44,6 +44,8 @@
 
 ### 202. Happy Number (HappyNumber.java)
 
+### 209. Minimum Size Subarray Sum (MinimumSizeSubarraySum.java)
+
 ### 228. Summary Ranges (SummaryRanges.java)
 
 ### 231. Power of Two (PowerofTwo.java)
