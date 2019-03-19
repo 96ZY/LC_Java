@@ -1,3 +1,5 @@
+//Use DP
+//just the solution part
 class SolutionofLeetCode62 {
 	public int uniquePaths(int m, int n) {
 		if (m == 0 || n == 0) {
