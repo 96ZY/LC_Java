@@ -24,6 +24,8 @@
 
 ### 53. Maximum Subarray (MaximumSubarray.java)
 
+### 62. Unique Paths (UniquePaths.java)
+
 ### 64. Minimum Path Sum (MinimumPathSum.java)
 
 ### 66. Pluse One (PluseOne.java)
