@@ -1,4 +1,4 @@
-
+//use dp
 class SolutionofLeetCode213 {
 	public int rob(int[] nums) {
 		int L = nums.length;
