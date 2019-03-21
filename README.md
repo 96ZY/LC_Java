@@ -58,6 +58,8 @@
 
 ### 231. Power of Two (PowerofTwo.java)
 
+### 242. Valid Anagram (ValidAnagram.java)
+
 ### 300. Longest Increasing Subsequence (LongestIncreasingSubsequence.java)
 
 ### 322. Coin Change (CoinChange.java)
