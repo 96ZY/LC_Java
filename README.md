@@ -52,6 +52,8 @@
 
 ### 213. House Robber II (HouseRobberII.java)
 
+### 223. Rectangle Area (RectangleArea.java)
+
 ### 228. Summary Ranges (SummaryRanges.java)
 
 ### 231. Power of Two (PowerofTwo.java)
