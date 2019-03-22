@@ -1,5 +1,7 @@
 //Just the solution part
 
+
+
 	class SolutionofLeetCode322 {
 		public int coinChange(int[] coins, int amount) {
 			int L = coins.length;
