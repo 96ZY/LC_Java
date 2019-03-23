@@ -1,4 +1,5 @@
 //Use dp
+//just the solution part
 
 class Solution {
     public int numDecodings(String s) {
