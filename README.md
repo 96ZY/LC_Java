@@ -42,6 +42,8 @@
 
 ### 162. Find Peak Element (FindPeakElement.java)
 
+### 167. Two Sum II - Input array is sorted (TwoSumII.java)
+
 ### 169. Majority Element (MajorityElement.java)
 
 ### 174. Dungeon Game (DungeonGame.java)
