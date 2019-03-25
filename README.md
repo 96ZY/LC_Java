@@ -69,3 +69,5 @@
 ### 322. Coin Change (CoinChange.java)
 
 ### 349. Intersection of Two Arrays (IntersectionofTwoArrays.java)
+
+### 832. Flipping an Image (FlippinganImage.java)
