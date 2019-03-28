@@ -1,4 +1,5 @@
 //Just the solution part
+
 class Solutionofleetcode70 {
 	public int climbStairs(int n) {
 		int dp[] = new int[n + 1];
