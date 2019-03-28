@@ -1,5 +1,4 @@
 //Solution is useless
-
 import java.util.*;
 
 class Solution {
