@@ -1,4 +1,5 @@
 //Just the solution part
+//Use dp
 
 class Solutionofleetcode70 {
 	public int climbStairs(int n) {
