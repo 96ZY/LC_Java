@@ -24,6 +24,8 @@
 
 ### 53. Maximum Subarray (MaximumSubarray.java)
 
+### 58. Length of Last Word (LengthofLastWord.java)
+
 ### 62. Unique Paths (UniquePaths.java)
 
 ### 63. Unique Paths II (UniquePathsII.java)
