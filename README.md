@@ -42,6 +42,8 @@
 
 ### 151. Reverse Words in a String (ReverseWordsinaString.java)
 
+### 152. Maximum Product Subarray (MaximumProductSubarray.java)
+
 ### 162. Find Peak Element (FindPeakElement.java)
 
 ### 167. Two Sum II - Input array is sorted (TwoSumII.java)
