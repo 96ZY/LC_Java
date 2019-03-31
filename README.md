@@ -76,6 +76,8 @@
 
 ### 349. Intersection of Two Arrays (IntersectionofTwoArrays.java)
 
+### 376. Wiggle Subsequence (WiggleSubsequence.java)
+
 ### 455. Assign Cookies (AssignCookies.java)
 
 ### 832. Flipping an Image (FlippinganImage.java)
