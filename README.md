@@ -80,6 +80,8 @@
 
 ### 455. Assign Cookies (AssignCookies.java)
 
+### 494. Target Sum (TargetSum.java)
+
 ### 832. Flipping an Image (FlippinganImage.java)
 
 ### 978. Longest Turbulent Subarray (LongestTurbulentSubarray.java)
