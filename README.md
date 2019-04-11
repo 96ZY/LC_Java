@@ -42,6 +42,8 @@
 
 ### 91. Decode ways (DecodeWays.java)
 
+### 118. Pascal's Triangle (PascalTriangle.java)
+
 ### 151. Reverse Words in a String (ReverseWordsinaString.java)
 
 ### 152. Maximum Product Subarray (MaximumProductSubarray.java)
