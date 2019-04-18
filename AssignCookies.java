@@ -1,8 +1,6 @@
 //use greedy algorithm
 //just the solution part
 
-
-
 class SolutionofLeetCode455 {
 	public int findContentChildren(int[] g, int[] s) {
 		int lg = g.length;
