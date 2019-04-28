@@ -6,6 +6,7 @@
 * - 更多详情请见官方网站：http://www.jiuzhang.com/?source=code
 */ 
 
+
 // version 1: BFS
 public class Solution {
     public List<List<Integer>> levelOrder(TreeNode root) {
