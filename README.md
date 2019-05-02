@@ -42,6 +42,8 @@
 
 ### 91. Decode ways (DecodeWays.java)
 
+### 101. Symmetric Tree (SymmetricTree.java)
+
 ### 102. Binary Tree Level Order Traversal (BinaryTreeLevelOrderTraversal.java)
 
 ### 118. Pascal's Triangle (PascalTriangle.java)
