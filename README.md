@@ -38,8 +38,6 @@
 
 ### 73. Set Matrix Zeroes (SetMatrixZeroes.java)
 
-
-
 ### 77. Combinations (Combinations.java)
 
 ### 91. Decode ways (DecodeWays.java)
@@ -85,6 +83,8 @@
 ### 213. House Robber II (HouseRobberII.java)
 
 ### 223. Rectangle Area (RectangleArea.java)
+
+### 226. Invert Binary Tree (InvertBinaryTree.java)
 
 ### 228. Summary Ranges (SummaryRanges.java)
 
