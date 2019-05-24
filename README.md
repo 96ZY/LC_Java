@@ -50,7 +50,9 @@
 
 ### 103. Binary Tree Zigzag Level Order Traversal (BinaryTreeZigzagLevelOrderTraversal.java)
 
-### 107 Binary Tree Level Order Traversal II (BinaryTreeLevelOrderTraversalII.java)
+### 107. Binary Tree Level Order Traversal II (BinaryTreeLevelOrderTraversalII.java)
+
+#### 110. Balanced Binary Tree (BalancedBinaryTree.java)
 
 ### 118. Pascal's Triangle (PascalTriangle.java)
 
