@@ -42,6 +42,8 @@
 
 #### 91. Decode ways (DecodeWays.java)
 
+#### 94. Binary Tree Inorder Traversal (BinaryTreeInorderTraversal.java)
+
 #### 98. Validate Binary Search Tree (ValidateBinarySearchTree.java)
 
 #### 101. Symmetric Tree (SymmetricTree.java)
