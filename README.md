@@ -102,6 +102,8 @@
 
 #### 242. Valid Anagram (ValidAnagram.java)
 
+#### 257. Binary Tree Paths (BinaryTreePaths.java)
+
 #### 300. Longest Increasing Subsequence (LongestIncreasingSubsequence.java)
 
 #### 322. Coin Change (CoinChange.java)
