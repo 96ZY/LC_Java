@@ -100,6 +100,8 @@
 
 #### 231. Power of Two (PowerofTwo.java)
 
+#### 236. Lowest Common Ancestor of a Binary Tree (LowestCommonAncestorOfABinaryTree.java)
+
 #### 242. Valid Anagram (ValidAnagram.java)
 
 #### 257. Binary Tree Paths (BinaryTreePaths.java)
