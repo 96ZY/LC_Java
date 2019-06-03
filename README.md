@@ -118,6 +118,8 @@
 
 #### 494. Target Sum (TargetSum.java)
 
+#### 628. Maximum Product of Three Numbers (MaximumProductOfThreeNumbers.java)
+
 #### 746. Min Cost Climbing Stairs (MinCostClimbingStairs.java)
 
 #### 832. Flipping an Image (FlippinganImage.java)
