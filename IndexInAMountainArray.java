@@ -1,7 +1,6 @@
 //Just the solution part
 //Use binary search
-//Time Complexity: O(log n)
-//Space Complexity: O(1)
+
 package com.leetcode.huang;
 
 public class SolutionOfLeetcode852 {
@@ -13,6 +12,8 @@ public class SolutionOfLeetcode852 {
 	}
 }
 
+//Time Complexity: O(log n)
+//Space Complexity: O(1)
 class Solution852 {
 	public int peakIndexInMountainArray(int[] A) {
 		if (A == null || A.length == 0) {
