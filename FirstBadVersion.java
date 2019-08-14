@@ -1,5 +1,4 @@
-package com.leetcode.huang;
-
+//just the solution part
 public class SolutionOfLeetcode278 {
 	/*
 	 * this problem is same as 'the first occurrence of X in an array';
@@ -40,9 +39,19 @@ class Solution {
 
 	private boolean isBadVersion(int version) {
 		/*
-		 * some codes with return value;
+		 * some codes;
 		 * 
 		 */
 		return true;
 	}
 }
+
+***
+	0 1 2 3 4 5 6 7
+	G G G G G B B B
+1 -----	L     M       R
+2 -----	      L   M   R
+3 -----	      L M R
+4 -----	        L R
+
+after the while loop just judge left and right: `isBadVersion(left)` and `isBadVersion(right)`;
