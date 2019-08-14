@@ -46,12 +46,16 @@ class Solution {
 	}
 }
 
-***
-	0 1 2 3 4 5 6 7
-	G G G G G B B B
-1 -----	L     M       R
-2 -----	      L   M   R
-3 -----	      L M R
-4 -----	        L R
+/*
+ * 			0 1 2 3 4 5 6 7
+ *			G G G G G B B B
+ * 1 -----	L     M       R
+ * 2 -----	      L   M   R
+ * 3 -----	      L M R
+ * 4 -----	        L R
+ * after the while loop, just judge left and right: `isBadVersion(left)` and `isBadVersion(right)`;
+ * 
+ * 
+ * 
+ */
 
-after the while loop just judge left and right: `isBadVersion(left)` and `isBadVersion(right)`;
