@@ -108,6 +108,8 @@
 
 #### 257. Binary Tree Paths (BinaryTreePaths.java)
 
+#### 278. First Bad Version (FirstBadVersion.java)
+
 #### 300. Longest Increasing Subsequence (LongestIncreasingSubsequence.java)
 
 #### 322. Coin Change (CoinChange.java)
