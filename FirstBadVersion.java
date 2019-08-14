@@ -10,6 +10,8 @@ public class SolutionOfLeetcode278 {
  * isBadVersion(int version);
  */
 
+//Time Complexity: O(logn);
+//Space Complexity: O(1);
 class Solution {
 	public int firstBadVersion(int n) {
 		if (n <= 0) {
