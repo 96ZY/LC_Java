@@ -20,6 +20,8 @@
       
 #### 28. Implement strStr() (Implementstr.java)
 
+#### 33. Search in Rotated Sorted Array (SearchInRotatedSortedArray.java)
+
 #### 35. Search Insert Position (Searchinsertposition.java)
 
 #### 36. Valid Sodoku (ValidSodoku.java)
