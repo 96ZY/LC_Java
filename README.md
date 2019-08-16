@@ -74,6 +74,8 @@
 
 #### 152. Maximum Product Subarray (MaximumProductSubarray.java)
 
+#### 153. Find Minimum in Rotated Sorted Array (FindMinimumInRotatedSortedArray.java)
+
 #### 162. Find Peak Element (FindPeakElement.java)
 
 #### 167. Two Sum II - Input array is sorted (TwoSumII.java)
