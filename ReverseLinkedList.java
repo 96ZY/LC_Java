@@ -1,4 +1,5 @@
 // Just the solution part
+// You have to change the file name or class name when using this file in IDE
 // Time complexity: O(n);
 // Space complexity: O(1);
 public class SolutionOfLeetcode206 {
