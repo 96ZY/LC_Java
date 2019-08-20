@@ -94,6 +94,8 @@
 
 #### 202. Happy Number (HappyNumber.java)
 
+#### 206. Reverse Linked List (ReverseLinkedList.java)
+
 #### 209. Minimum Size Subarray Sum (MinimumSizeSubarraySum.java)
 
 #### 213. House Robber II (HouseRobberII.java)
